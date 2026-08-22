@@ -1,6 +1,6 @@
 YT Downloader for ME
 Deskripsi
-YT Downloader for ME adalah aplikasi desktop sederhana yang dirancang untuk mengunduh video dan audio dari YouTube dengan antarmuka yang bersih dan modern. Aplikasi ini dibuat agar teman-teman saya dapat mengunduh konten favorit mereka dengan mudah tanpa harus berurusan dengan terminal atau skrip rumit.
+YT Downloader for ME adalah aplikasi desktop sederhana yang dirancang untuk mengunduh video dan audio dari YouTube dengan antarmuka yang bersih dan modern. Aplikasi ini dibuat agar teman-teman saya dapat mengunduh konten favorit mereka dengan mudah tanpa harus berurusan dengan iklan atau skrip rumit.
 
 Fitur Utama
 Mode Unduh Fleksibel: Mendukung unduhan video (hingga resolusi tertinggi) dan audio (MP3).
