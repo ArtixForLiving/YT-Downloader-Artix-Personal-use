@@ -7,8 +7,6 @@ Mode Unduh Fleksibel: Mendukung unduhan video (hingga resolusi tertinggi) dan au
 
 Pemilihan Kualitas: Deteksi otomatis resolusi yang tersedia untuk video pilihanmu.
 
-UI Modern: Menggunakan desain transparan (Glass Effect) yang elegan dengan dukungan Dark Mode/Light Mode.
-
 Antarmuka Ramah Pengguna: Cukup tempel tautan, cek kualitas, dan unduh.
 
 Pembaruan Otomatis: Dilengkapi dengan fitur pengecekan pembaruan mandiri agar tetap kompatibel dengan YouTube.
